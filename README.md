@@ -5,7 +5,5 @@ Customer churn prediction is the process of using machine learning models to ide
 
 
 ## GUI
-
-
 <img align="center" alt="dataanalysis"  width = "200" height = "Screenshot 2023-12-12 131313.png">
 <img align="center" alt="dataanalysis"  width = "200" height = "250px" src="Screenshot 2023-12-11 154427.png">
